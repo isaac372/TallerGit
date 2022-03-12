@@ -1,5 +1,5 @@
 const index=()=>{
 
 
-    return "Index"
+    return "Index hola mundo"
 }
