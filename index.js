@@ -9,3 +9,7 @@ const hola = () => {
 const comoestas = () => {
   return "comoestas";
 };
+
+const comoestass = () => {
+  return "comoestas";
+};
